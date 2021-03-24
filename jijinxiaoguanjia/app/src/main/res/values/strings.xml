@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">基金小管家</string>
+    <string name="menu_help">帮助</string>
+    <string name="menu_setting">设置</string>
+</resources>
